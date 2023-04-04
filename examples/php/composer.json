@@ -1,9 +1,0 @@
-{
-    "require": {
-        "cleong/sixbeermk": "dev-main"
-    },
-    "minimum-stability": "dev",
-    "scripts": {
-        "start": "php -S localhost:8080"
-    }
-}
